@@ -66,5 +66,4 @@ Si estás utilizando Entity Framework para manejar la base de datos, asegúrate 
 2. Si hay problemas con la base de datos o la configuración, revisa la cadena de conexión y los logs de errores para solucionar posibles inconvenientes.
 ```
 
-Espero que ahora esté correctamente presentado. ¡Avísame si necesitas algo más!
-```
+
