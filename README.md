@@ -66,7 +66,26 @@ Si estás utilizando Entity Framework para manejar la base de datos, asegúrate 
 2. Si hay problemas con la base de datos o la configuración, revisa la cadena de conexión y los logs de errores para solucionar posibles inconvenientes.
 
 # Funcionalidades de la aplicación
+ 1. Ingrese a la pagina principal y   de clic en "agregar nuevo autor"  si este aun no existe
 
+![image](https://github.com/user-attachments/assets/ff24b06b-42c1-4207-8c53-7ad97155dcb2)
+
+2. Ingrese el nombre del autor y de clic en "crear"
+![image](https://github.com/user-attachments/assets/d02df6ff-78db-4c9d-bb22-616b75a15c11)
+
+3.De clic en "volver a la lista" para que puedas ver todos los autores
+
+![image](https://github.com/user-attachments/assets/a3f4d9c8-b9fa-4cd4-9357-a3f2eaf832a5)
+
+4.Regrese a la pagina principal y de clic en "agregar nuevo libro"
+
+![image](https://github.com/user-attachments/assets/9cfd9215-7a6a-4541-8685-b065cd83ab73)
+
+5.Ingrese el nombre del libro y seleccion el autor y de clic en "crear"
+
+![image](https://github.com/user-attachments/assets/cfa25121-c4be-4bbb-a5ca-a45f986cb1ec)
+
+![image](https://github.com/user-attachments/assets/f73a7ce1-ff0a-4fc5-8751-70fde6e5b07a)
 
 
 # Diagrama Entidad Relacion
