@@ -64,6 +64,6 @@ Si estás utilizando Entity Framework para manejar la base de datos, asegúrate 
 ## 7. Verificar el Funcionamiento
 1. Navega a la aplicación y asegúrate de que las funcionalidades principales, como la inserción y visualización de `Libros` y `Autores`, funcionen correctamente.
 2. Si hay problemas con la base de datos o la configuración, revisa la cadena de conexión y los logs de errores para solucionar posibles inconvenientes.
-```
+
 
 
