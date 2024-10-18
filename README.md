@@ -71,6 +71,7 @@ Si estás utilizando Entity Framework para manejar la base de datos, asegúrate 
 ![image](https://github.com/user-attachments/assets/ff24b06b-42c1-4207-8c53-7ad97155dcb2)
 
 2. Ingrese el nombre del autor y de clic en "crear"
+   
 ![image](https://github.com/user-attachments/assets/d02df6ff-78db-4c9d-bb22-616b75a15c11)
 
 3.De clic en "volver a la lista" para que puedas ver todos los autores
