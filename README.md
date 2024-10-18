@@ -13,7 +13,7 @@ La aplicación utiliza **SQL Server** como base de datos y **Entity Framework** 
 
 1. **Clonar el repositorio**:
    ```bash
-   git clone https://github.com/tu-usuario/nombre-del-repositorio.git
+   git clone https://github.com/carenximem/PruebaTecnica.git
    ### Configurar la base de datos:
 
 1. Ejecuta el script SQL proporcionado en `database-script.sql` para crear las tablas **Libros** y **Autores**, y establecer la relación entre ellas en tu servidor SQL Server.
